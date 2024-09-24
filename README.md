@@ -5,7 +5,7 @@ This Supermarket Inventory Management System is a Java-based application designe
 # Tech Stack:
 • Java
 # Screenshots/Demos:
-![image](https://github.com/user-attachments/assets/f33fcfbe-d9fa-46e7-9637-9a82a620cf90)
+![image](https://github.com/user-attachments/assets/f23d3747-d410-470e-be4c-31a09c993650)
 
 
   
