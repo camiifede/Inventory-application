@@ -11,6 +11,14 @@ Following a display of the GUI and product creation:
 ![image](https://github.com/user-attachments/assets/583c7573-a56c-4883-8923-2210535065b3)
 ![image](https://github.com/user-attachments/assets/e6c6adba-667c-46db-987b-3bfbc225563c)
 
+# Features:
+• Add new items to the inventory with details such as name, price, and quantity.
+• Update existing items' information (e.g., stock levels).
+• Remove items from inventory when no longer available.
+• View detailed reports of stock.
+• Search and filter items by category or name.
+• Simple and intuitive user interface for easy interaction.
+• Save and Load functionalities.
 
 
   
