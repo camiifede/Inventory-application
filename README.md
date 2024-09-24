@@ -9,6 +9,7 @@ Following a display of the GUI and product creation:
 
 ![image](https://github.com/user-attachments/assets/f23d3747-d410-470e-be4c-31a09c993650)
 ![image](https://github.com/user-attachments/assets/583c7573-a56c-4883-8923-2210535065b3)
+![image](https://github.com/user-attachments/assets/053382f2-26c6-4aa9-93c8-d98ff7099dd6)
 
 
 
